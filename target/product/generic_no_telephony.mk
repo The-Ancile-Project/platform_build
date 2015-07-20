@@ -19,8 +19,6 @@
 
 PRODUCT_PACKAGES := \
     Bluetooth \
-    Gallery2 \
-    Music \
     MusicFX \
     OneTimeInitializer \
     Provision \
